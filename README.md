@@ -57,9 +57,14 @@ nano /etc/modules
 
 
 vfio
+
 vfio_iommu_type1
+
 vfio_pci
+
 vfio_virqfd
+
+
 🔐 الخطوة 4: إعدادات استقرار وتوافق
 
 
